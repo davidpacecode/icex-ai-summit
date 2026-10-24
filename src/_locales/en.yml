@@ -1,0 +1,7 @@
+en:
+  labels:
+    subscribe: Sign Up # t("labels.subscribe")
+  marketing:
+    see_also: Resources # t("marketing.see_also")
+  nav:
+    discussion: Discussion
