@@ -3,8 +3,9 @@ layout: page
 title: About
 ---
 
-This is the basic Bridgetown site template. You can find out more info about customizing your Bridgetown site, as well as basic Bridgetown usage documentation at [bridgetownrb.com](https://bridgetownrb.com/)
+## Merck: Business Process Reengineering
 
-You can find the source code for Bridgetown at GitHub:
-[bridgetownrb](https://github.com/bridgetownrb) /
-[bridgetown](https://github.com/bridgetownrb/bridgetown)
+This is the discussion guide for the Merck topic at the [2026 ICEX AI Summit.](images/icex_ai_summit_agenda.pdf) The topic description is below.
+
+> Realizing the tremendous potential to advance Merck’s mission with AI, Merck launched five lighthouse use cases early while IT worked in parallel to build the capabilities to support them. IT is driving this work in close partnership with business partners while also creating patterns and registries that strengthen the use cases as they mature. The goal is to deliver business value and reusable capabilities. Rather than layering AI on top of existing processes, the teams are reimagining business processes to achieve greater results.
+{:.inline-bleed}

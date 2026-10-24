@@ -112,7 +112,7 @@ Bridgetown.configure do |config|
   config.defaults << {
     values: {
       willamette: {
-        hide_sidebar: true
+        hide_sidebar: false
       }
     }
   }
